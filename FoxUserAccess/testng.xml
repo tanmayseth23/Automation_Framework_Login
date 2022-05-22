@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"><test verbose="2" name="/Users/seth/Downloads/FoxUserAccess">
+    <classes>
+        <class name="apiTests.LoginUserTests"></class>
+        <class name="apiTests.RegisterUserTests"></class>
+        <class name="apiTests.ResetUserTests"></class>
+    </classes>
+</test></suite>
