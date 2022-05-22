@@ -5,9 +5,12 @@ How to import this Project :
 Method I:
 
 Download Zip from (https://github.com/tanmayseth23/Automation_Framework_Login) and extract the same into one folder
-In eclipse >> File >> Open Project from File System
-click Directory to select Import Source Path and select the folder ApplicationCache
+In intellij >>  Open Project from File System
+click Directory to select Import Source Path and select the folder 
 Next Finish
+
+Click on Trust Project if the prompt pops up.
+It may also ask to download all the maven dependencies so we have to select that option as well.
 
 How to Run the Project :
 
